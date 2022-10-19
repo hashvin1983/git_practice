@@ -1,3 +1,4 @@
 changes in masster
 changes to generate conflict
 changes in master branch
+changes in feature3
