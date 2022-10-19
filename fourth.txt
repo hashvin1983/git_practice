@@ -1,1 +1,2 @@
 changes in masster
+changes to generate conflict
