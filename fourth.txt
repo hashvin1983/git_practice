@@ -1,2 +1,3 @@
 changes in masster
 changes to generate conflict
+changes in feature3
